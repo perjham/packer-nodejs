@@ -1,0 +1,1 @@
+aws ec2 run-instances --image-id ami-093f9eac875f2da57 --instance-type t2.micro --key-name second-key --security-group-ids sg-02ad7d7ec3e139f73 --subnet-id subnet-0636086583fdca2ca
